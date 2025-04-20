@@ -6,12 +6,6 @@
 This dataset contains fictional sales transactions with the following fields.
 
 
-Column Name	         Description<br>
-order_date	         The date the order was made<br>
-amount	             The sales amount in USD<br>
-product_id	         Unique identifier for product
-
-
 Tools Used<br>
 MySQL Workbench – to query and analyze the data<br>
 SQL – for data cleaning, filtering, and aggregation
